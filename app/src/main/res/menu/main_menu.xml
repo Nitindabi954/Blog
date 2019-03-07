@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_add"
+        android:icon="@mipmap/ic_add_white_24dp"
+        android:title="Add Post"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_Delete"
+        android:title="Delete"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_signout"
+        android:title="Signout"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/about"
+        android:title="About"
+        app:showAsAction="never" />
+    <!--<item android:id="@+id/action_back"-->
+        <!--android:icon="@mipmap/baseline_arrow_back_white_18dp"-->
+        <!--android:title="Back"-->
+        <!--app:showAsAction="always"/>-->
+
+</menu>

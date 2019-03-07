@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data</string>
+    <string name="login_title">Login</string>
+    <string name="create_act">Create Acount</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_dec">Post Description</string>
+    <string name="submit_button">Submit</string>
+</resources>
